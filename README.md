@@ -1,12 +1,25 @@
-<h1 align="center">Sergii Ginkota</h1>
-<h3 align="center">I am a motivated and detail-oriented **Junior Backend Developer** with foundational knowledge in Java and backend technologies. I am passionate about learning and expanding my skills, with hands-on experience in building backend systems using modern frameworks and tools.</h3>
+# Sergii Ginkota
 
-- Travel Allowance Calculator [https://github.com/sginko/travel-allowance-calculation](https://github.com/sginko/travel-allowance-calculation)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsginko%2Fsginko&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sginko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sginko/" height="30" width="40" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sginko/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+
+[![Github](https://img.shields.io/github/followers/sginko?label=Follow&style=social)](https://github.com/sginko)
+
+Motivated and detail-oriented Junior Backend Developer with a foundational knowledge of Java, Spring Boot, PostgreSQL, and related technologies. Eager to contribute to a dynamic team environment while expanding my technical skills. 
+
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=Spring-Boot&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Hibernate-05122A?style=for-the-badge&logo=Hibernate&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-JUnit-05122A?style=for-the-badge&logo=JUnit&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Liquibase-05122A?style=for-the-badge&logo=Liquibase&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Kafka-05122A?style=for-the-badge&logo=Kafka&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub&color=ffffff)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sginko&show_icons=true&locale=en&layout=compact" alt="sginko" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sginko&" alt="sginko" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
