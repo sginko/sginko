@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/sginko?label=Follow&style=social)](https://github.com/sginko)
 
-Motivated and detail-oriented Beginer Backend Developer with a foundational knowledge of Java, Spring Boot, PostgreSQL, and related technologies.
+Motivated and detail-oriented Beginner Backend Developer with a foundational knowledge of Java, Spring Boot, PostgreSQL, and related technologies.
 
 ### ⚙️ Tech Stack
 
