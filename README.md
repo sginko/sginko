@@ -4,10 +4,8 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated and detail-oriented **Backend Developer** with a strong foundation in Java, Spring Boot, and PostgreSQL. My focus is on creating reliable and scalable server-side applications. I am passionate about solving complex problems and continuously improving my skills by exploring new technologies and best practices in software development.
+I am a motivated and detail-oriented **Backend Developer** with a strong foundation in Java, Spring Boot, and PostgreSQL. My focus is on creating reliable and scalable server-side applications. I am currently completing my backend development courses and actively seeking opportunities to apply my knowledge in real-world projects. I'm looking for internships or entry-level roles where I can continue to develop my skills, gain hands-on experience, and grow as a developer. I am eager to contribute to projects, collaborate with experienced professionals, and continuously learn by exploring new technologies and best practices in software development.
 
-- 🎯 Currently working on projects utilizing **Kafka** and **Docker** to build distributed systems and improve my DevOps knowledge.
-- 📚 Actively learning **CI/CD pipelines** and containerization technologies to broaden my expertise.
 - 💡 Open to collaborations in open-source projects and always eager to contribute to the developer community.
 
 ---
@@ -38,6 +36,15 @@ I am a motivated and detail-oriented **Backend Developer** with a strong foundat
   - Apache PDFBox
 
 ---
+
+## 📊 GitHub Contributions
+
+In the last year, I've made **318 contributions** across several repositories, working with technologies like Java, Spring Boot, Docker, and more.
+
+[![Sergii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sginko&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 ### 📫 Contacts
 
