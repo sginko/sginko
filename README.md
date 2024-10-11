@@ -1,24 +1,44 @@
 # Sergii Ginkota
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsginko%2Fsginko&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Github](https://img.shields.io/github/followers/sginko?label=Follow&style=social)](https://github.com/sginko) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sginko/)
+[![Github](https://img.shields.io/github/followers/sginko?label=Follow&style=social)](https://github.com/sginko) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sginko/)
 
+### 👨‍💻 About Me
 
+I am a motivated and detail-oriented **Backend Developer** with a strong foundation in Java, Spring Boot, and PostgreSQL. My focus is on creating reliable and scalable server-side applications. I am passionate about solving complex problems and continuously improving my skills by exploring new technologies and best practices in software development.
 
+- 🎯 Currently working on projects utilizing **Kafka** and **Docker** to build distributed systems and improve my DevOps knowledge.
+- 📚 Actively learning **CI/CD pipelines** and containerization technologies to broaden my expertise.
+- 💡 Open to collaborations in open-source projects and always eager to contribute to the developer community.
 
-
-
-
-Motivated and detail-oriented Beginner Backend Developer with a foundational knowledge of Java, Spring Boot, PostgreSQL, and related technologies.
+---
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=Spring-Boot&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Hibernate-05122A?style=for-the-badge&logo=Hibernate&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-JUnit-05122A?style=for-the-badge&logo=JUnit&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Liquibase-05122A?style=for-the-badge&logo=Liquibase&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Kafka-05122A?style=for-the-badge&logo=Kafka&color=ffffff)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sginko&show_icons=true&locale=en&layout=compact" alt="sginko" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sginko&" alt="sginko" />
-</div>
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+
+### 🚀 Projects
+
+- [**Travel Expense Management System**](https://github.com/sginko/travel-allowance-calculation)  
+  An application for managing business travel expenses with features such as cost calculation, PDF report generation, and user management.
+
+  **Technologies Used**:
+  - Java
+  - Spring Boot
+  - PostgreSQL
+  - Docker
+  - Apache PDFBox
+
+---
+
+### 📫 Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/sginko/)
