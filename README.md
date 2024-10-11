@@ -4,9 +4,13 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated and detail-oriented **Backend Developer** with a strong foundation in Java, Spring Boot, and PostgreSQL. My focus is on creating reliable and scalable server-side applications. I am currently completing my backend development courses and actively seeking opportunities to apply my knowledge in real-world projects. I'm looking for internships or entry-level roles where I can continue to develop my skills, gain hands-on experience, and grow as a developer. I am eager to contribute to projects, collaborate with experienced professionals, and continuously learn by exploring new technologies and best practices in software development.
+I am a motivated and detail-oriented Backend Developer with a strong foundation in Java, Spring Boot, and PostgreSQL. My focus is on creating reliable and scalable server-side applications. I am currently completing my backend development courses and actively seeking opportunities to apply my knowledge in real-world projects. I'm looking for internships or entry-level roles where I can continue to develop my skills, gain hands-on experience, and grow as a developer.
 
-- 💡 Open to collaborations in open-source projects and always eager to contribute to the developer community.
+At the moment, I am working on a billing/invoice management application, where I am applying my skills in backend development and enhancing my understanding of building robust financial software solutions.
+
+I am eager to contribute to projects, collaborate with experienced professionals, and continuously learn by exploring new technologies and best practices in software development.
+
+💡 Open to collaborations in open-source projects and always eager to contribute to the developer community.
 
 ---
 
