@@ -1,6 +1,6 @@
 # Sergii Ginkota
 
-[![Github](https://img.shields.io/github/followers/sginko?label=Follow&style=social)](https://github.com/sginko) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sginko/)
+[![Github](https://img.shields.io/github/followers/sginko?label=Follow&style=social)](https://github.com/sginko)
 
 ### 👨‍💻 About Me
 
