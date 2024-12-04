@@ -14,11 +14,13 @@ I am eager to contribute to projects, collaborate with experienced professionals
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.5-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-Security-brightgreen?style=for-the-badge&logo=oauth)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-F7DF1E?style=for-the-badge&logo=h2database&logoColor=black)
 ![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
@@ -28,14 +30,21 @@ I am eager to contribute to projects, collaborate with experienced professionals
 ### Projects
 
 - [**Travel Expense Management System**](https://github.com/sginko/travel-allowance-calculation)  
-  An application for managing business travel expenses with features such as cost calculation, PDF report generation, and user management.
+  Is a web application designed to simplify the management of business travel expenses. It automates the calculation of travel allowances, generates detailed PDF reports, and adheres to the Polish Labor Code regulations.
 
   **Technologies Used**:
-  - Java
-  - Spring Boot
-  - PostgreSQL
-  - Docker
-  - Apache PDFBox
+- **Java 21**: Latest features for modern backend development.
+- **Spring Boot 3.3.5**: Framework for building RESTful services.
+- **PostgreSQL**: Secure and scalable relational database.
+- **Docker & Docker Compose**: For easy application deployment.
+- **NGINX**: Reverse proxy server for traffic management.
+- **OAuth2**: Secure authentication flow with third-party providers.
+- **Spring Security**: Ensuring application security.
+- **JSON Patch (via java-json-tools)**: Enables efficient and standard-compliant partial updates.
+- **Liquibase**: For seamless database migration management.
+- **H2 Database**: In-memory database for testing and development.
+- **Apache PDFBox**: Library for creating PDF reports dynamically.
+- **JobRunr**: Background job processing.
 
 ---
 
