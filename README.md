@@ -14,14 +14,14 @@ I am eager to contribute to projects, collaborate with experienced professionals
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.5-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-Security-brightgreen?style=for-the-badge&logo=oauth)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-Security-brightgreen?style=flat&logo=oauth)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2_Database-F7DF1E?style=for-the-badge&logo=h2database&logoColor=black)
-![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-F7DF1E?style=flat&logo=h2database&logoColor=black)
+![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
