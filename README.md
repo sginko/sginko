@@ -24,15 +24,30 @@ I am eager to contribute to projects, collaborate with experienced professionals
 ![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=java&logoColor=white)
 
 ---
 
 ### Projects
 
-- [**Travel Expense Management System**](https://github.com/sginko/travel-allowance-calculation)  
+- [**Travel Expense Management System**](https://github.com/sginko/travel-allowance-calculation)
+  
   Is a web application designed to simplify the management of business travel expenses. It automates the calculation of travel allowances, generates detailed PDF reports, and adheres to the Polish Labor Code regulations.
 
   **Technologies Used**:
+  
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.5-F2F4F9?style=flat&logo=spring-boot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-Security-brightgreen?style=flat&logo=oauth)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-F7DF1E?style=flat&logo=h2database&logoColor=black)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=java&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-4A86E8?style=flat&logo=liquibase&logoColor=white)
+![Apache PDFBox](https://img.shields.io/badge/Apache_PDFBox-D22128?style=flat&logo=apache&logoColor=white)
+
 - **Java 21**: Latest features for modern backend development.
 - **Spring Boot 3.3.5**: Framework for building RESTful services.
 - **PostgreSQL**: Secure and scalable relational database.
@@ -43,16 +58,9 @@ I am eager to contribute to projects, collaborate with experienced professionals
 - **JSON Patch (via java-json-tools)**: Enables efficient and standard-compliant partial updates.
 - **Liquibase**: For seamless database migration management.
 - **H2 Database**: In-memory database for testing and development.
+- **JUnit 5**: For testing.
 - **Apache PDFBox**: Library for creating PDF reports dynamically.
 - **JobRunr**: Background job processing.
-
----
-
-## GitHub Contributions
-
-In the last year, I've made **318 contributions** across several repositories, working with technologies like Java, Spring Boot, Docker, and more.
-
-[![Sergii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sginko&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
