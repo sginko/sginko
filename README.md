@@ -23,6 +23,7 @@ I am eager to contribute to projects, collaborate with experienced professionals
 ![H2 Database](https://img.shields.io/badge/H2_Database-F7DF1E?style=flat&logo=h2database&logoColor=black)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=java&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-85EA2D?style=flat&logo=openapi-initiative&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
